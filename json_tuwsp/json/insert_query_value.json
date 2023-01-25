@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "value_param": "56982599243",
+        "user_id": "sebastian_wsp"
+    },
+    {
+        "id": 2,
+        "value_param": "Hola, Sebastián",
+        "user_id": "sebastian_wsp"
+    },
+    {
+        "id": 3,
+        "value_param": "phone_number",
+        "user_id": "sebastian_wsp"
+    },
+    {
+        "id": 1,
+        "value_param": "56940800986",
+        "user_id": "evolpos_wsp"
+    },
+    {
+        "id": 2,
+        "value_param": "Hola, estoy en la página de evolPOS y necesito información",
+        "user_id": "evolpos_wsp"
+    },
+    {
+        "id": 3,
+        "value_param": "phone_number",
+        "user_id": "evolpos_wsp"
+    },
+    {
+        "id": 1,
+        "value_param": "56953105310",
+        "user_id": "ivacker_wsp"
+    },
+    {
+        "id": 2,
+        "value_param": "Hola, ivan",
+        "user_id": "ivacker_wsp"
+    },
+    {
+        "id": 3,
+        "value_param": "phone_number",
+        "user_id": "ivacker_wsp"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "evolpos_wsp",
+        "name": "evolPOS",
+        "nick_name": "evolpos",
+        "url_id": "wsp"
+    },
+    {
+        "id": "sebastian_wsp",
+        "name": "Sebastián",
+        "nick_name": "sebastian",
+        "url_id": "wsp"
+    },
+    {
+        "id": "ivacker_wsp",
+        "name": "Ivan",
+        "nick_name": "ivacker",
+        "url_id": "wsp"
+    }
+]

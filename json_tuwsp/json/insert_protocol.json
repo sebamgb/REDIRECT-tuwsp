@@ -1,0 +1,10 @@
+[
+    {
+        "id": "s",
+        "protocol": "https"
+    },
+    {
+        "id": "i",
+        "protocol": "http"
+    }
+]

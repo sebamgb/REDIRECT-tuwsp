@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "key_param": "phone",
+        "url_id": "wsp"
+    },
+    {
+        "id": 2,
+        "key_param": "text",
+        "url_id": "wsp"
+    },
+    {
+        "id": 3,
+        "key_param": "type",
+        "url_id": "wsp"
+    }
+]

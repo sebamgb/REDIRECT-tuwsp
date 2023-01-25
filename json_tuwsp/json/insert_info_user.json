@@ -1,0 +1,23 @@
+[
+    {
+        "id": "infoSeba",
+        "phone": 982599243,
+        "country": "Chile",
+        "cod_country": "56",
+        "user_id": "sebastian_wsp"
+    },
+    {
+        "id": "infoEvol",
+        "phone": 940800986,
+        "country":"Chile",
+        "cod_country": "56",
+        "user_id": "evolpos_wsp"
+    },
+    {
+        "id": "infoIvan",
+        "phone": 953105310,
+        "country":"Chile",
+        "cod_country": "56",
+        "user_id": "ivacker_wsp"
+    }
+]
